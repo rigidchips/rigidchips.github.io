@@ -5,4 +5,8 @@ permalink: /server/
 ---
 マルチプレイサーバ情報です
 
-工事中
+# サーバリスト
+
+|Host|Port|
+|----|----|
+|ostenrc.rigidchips.com|37564|
