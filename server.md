@@ -9,4 +9,4 @@ permalink: /server/
 
 |Host|Port|
 |----|----|
-|ostenrc.rigidchips.com|37564|
+|monolith-rave.xyz|2345|
